@@ -6,14 +6,14 @@ __What is Terminal ?__
 Ans: it is a tool / software which is use to pass shell command in operating system. ALT + SHIFT + T is the short key to 
 get terminal in ubuntu.
 
-__File Stracture__  
+__File Stracture__   
 Ans: Root is the mother directory of all directory.the symble is '/' Forward slash!
 
-__write your present work directory command__
+__write your present work directory command__  
 Ans:pwd 
 
-__FROM  /home/ruhul/Documents/StudyLinux go to the root directory__ 
+__FROM  /home/ruhul/Documents/StudyLinux go to the root directory__   
 Ans: cd /
 
-__show all the file in the directory__
+__show all the file in the directory__  
 Ans: ls
